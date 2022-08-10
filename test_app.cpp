@@ -1,5 +1,5 @@
 #include <iostream>
-#include "iniparser.hpp"
+#include "iniparser.h"
 
 // User-defined structure that can be loaded to\from INI
 struct test_val
